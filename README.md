@@ -1,25 +1,24 @@
 # 🌤️ Dreamy Weather App
 
-A modern weather application with a soft pastel glassmorphism UI built using **HTML, CSS, and JavaScript**.
-
-The app provides real-time weather information using the OpenWeather API with location-based weather detection and city search functionality.
+A beautiful **pastel-themed weather application** built using **HTML, CSS, and JavaScript**.  
+The app provides real-time weather updates with a clean glassmorphism UI, location detection, and city search functionality.
 
 ---
 
 ## ✨ Features
 
-- 🌍 Current location weather detection
-- 🔍 Search weather by city name
+- 🌍 Get weather using your current location
+- 🔎 Search weather by city name
 - 🌡️ Real-time temperature information
 - 💨 Wind speed details
-- 💧 Humidity percentage
-- ☁️ Cloud coverage information
-- 🎨 Dreamy pastel glassmorphism design
-- 📱 Fully responsive layout
+- 💧 Humidity information
+- ☁️ Cloud coverage details
+- 🎨 Dreamy pastel glassmorphism interface
+- 📱 Fully responsive design for all devices
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -29,15 +28,15 @@ The app provides real-time weather information using the OpenWeather API with lo
 
 ---
 
-## 📸 Preview
+## 📸 Project Preview
 
-![Weather App Preview](weather-app-preview.png)
+![Dreamy Weather App Preview](weather-app-preview.png)
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 How to Run the Project Locally
 
-Clone this repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Ekta8527/WEATHER-APP.git
