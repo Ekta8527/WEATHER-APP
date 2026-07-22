@@ -133,10 +133,15 @@ h1 {
     display: flex;
 }
 
-.grant-location-container img {
-    margin-bottom: 1.5rem;
-    width: clamp(4rem, 12vw, 5.5rem);
-    height: auto;
+.form-container {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.form-container.active {
+    display: flex;
 }
 
 .grant-location-container p:first-of-type {
